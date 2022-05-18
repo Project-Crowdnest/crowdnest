@@ -1,3 +1,5 @@
+# TODO: Update pipeline to deploy build payload to a production repo.
+
 name: Deploy built app to production branch.
 
 on:
